@@ -62,6 +62,5 @@ Some additional resources and books we highly recommend:
 | CISSP CBK             | ([link](https://www.amazon.com/Official-ISC-Guide-CISSP-CBK/dp/1119423341))                   | Yes                                                          | That's right, basic security and risk management - essential to create quality solutions. This book is a great single source of everything you need to start in DevOps. |
 | The Phoenix Project   | ([link](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592))        | N/A                                                          | The legendary book about DevOps. It's not a technical one. You may even prefer to buy an Audio version, it's great to listen while commuting or working out             |
 | War and Peace and IT  | ([link](https://www.amazon.com/War-Peace-Business-Leadership-Technology-ebook/dp/B07JZHCVY9)) | N/A                                                          | Another great book that helps properly set goals of your projects, and understand what value your projects bring. Great in Audio, too!                                  |
-
-| JSON      | https://www.w3schools.com/js/js_json_syntax.asp
-| YAML      | https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+| JSON | ([link]( https://www.w3schools.com/js/js_json_syntax.asp))
+| YAML | ([link](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html))
