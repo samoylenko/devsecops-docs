@@ -43,6 +43,8 @@
 | JavaScript учебник | ([ссылка](https://nodejs.dev/learn))                                                                                          | —                                                          | Любой JavaScript учебник на ваш выбор. Мы рекомендуем изучить несколько книг/курсов с уклоном на NodeJS (по сравнению с браузерным).                                                                               |
 | NodeJS API          | ([ссылка](https://nodejs.org/docs/latest/api/))                                                                               | Да                                                          | Невозможно записать программу не зная базовых возможностей платформы. Пролистайте NodeJS API, чтобы знать свои возможности "из коробки". |
 | Markdown язык   | ([ссылка](https://guides.github.com/features/mastering-markdown/))                                                            | Да                                                          | Язык разметки используется почти всем инструментарием для совместной работы над кодом, в комментариях, чатах, документах и т.д.                                                                                      |
+| JSON                | ([link]( https://www.w3schools.com/js/js_json_syntax.asp))
+| YAML                | ([link](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html))
 
 ### Дополнительная литература
 
