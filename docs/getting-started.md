@@ -51,6 +51,8 @@ that you know where to look for this information when you'll need it.
 | JavaScript tutorial | ([link](https://nodejs.dev/learn))                                                                                          | N/A                                                          | Any JavaScript tutorial of your choice. We recommend a couple of books/courses, focused on NodeJS (vs browser)                                                                               |
 | NodeJS API          | ([link](https://nodejs.org/docs/latest/api/))                                                                               | Yes                                                          | It is impossible to write software without knowing standard capabilities of the chosen platform. Skim through NodeJS API just to know what functionality is available for you out of the box |
 | Markdown language   | ([link](https://guides.github.com/features/mastering-markdown/))                                                            | Yes                                                          | Markup language used by nearly all code collaboration tools, in comments, chat messages, documents etc.                                                                                      |
+| JSON                | ([link]( https://www.w3schools.com/js/js_json_syntax.asp))
+| YAML                | ([link](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html))
 
 ### Additional resources
 
