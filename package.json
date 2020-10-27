@@ -1,0 +1,24 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "DevSecOps Learning",
+  "scripts": {
+    "lint-md": "remark . -f",
+    "lint-md-fix": "remark . -o"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:devsecops-learning/docs.git"
+  },
+  "author": "devsecops-learning",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "remark-cli": "*",
+    "remark-preset-lint-recommended": "*"
+  }
+}
