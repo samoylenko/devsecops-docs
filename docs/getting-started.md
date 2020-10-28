@@ -1,5 +1,7 @@
 # Getting started
 
+[🇷🇺 - нажмите здесь для русской версии](ru/getting-started.md)
+
 This page describes the initial setup, and shares links to materials we are
 recommending to get familiar with when joining our team.
 
