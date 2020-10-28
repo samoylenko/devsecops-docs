@@ -24,10 +24,11 @@ required) list that will help join our projects:
 In our work, we use multiple online platforms, and you may want to ensure you
 registered / have an account at:
 
-- [Microsoft live](https://live.com) (to share documents, access Teams and
-  Azure)
-- [GitHub](https://github.com) (to collaborate on our projects and code)
-- [Docker Hub](https://hub.docker.com/) (to access and publish container images)
+-   [Microsoft live](https://live.com) (to share documents, access Teams and
+    Azure)
+-   [GitHub](https://github.com) (to collaborate on our projects and code)
+-   [Docker Hub](https://hub.docker.com/) (to access and publish container
+    images)
 
 ## Recommended Knowledge
 

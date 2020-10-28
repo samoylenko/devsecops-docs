@@ -2,5 +2,5 @@
 
 На данный момент, вам доступны ссылки:
 
-- [Введение в разработку](getting-started.md) page
-- [English version of these docs (🇬🇧)](../)
+-   [Введение в разработку](getting-started.md) page
+-   [English version of these docs (🇬🇧)](../)
