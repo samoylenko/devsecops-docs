@@ -2,7 +2,7 @@
 
 ## All-in one table
 
-Single table for everything until we collect enough links to break it dfow
+Single table for everything until we collect enough links to break it down
 
 | Document Title                        | Link                                             | Description                                                                                                                                                                               |
 |:--------------------------------------|:-------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
