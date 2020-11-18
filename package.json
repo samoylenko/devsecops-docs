@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "DevSecOps Learning",
   "scripts": {
-    "lint-md": "remark . -f",
-    "lint-md-fix": "remark . -o"
+    "lint": "remark . -f"
   },
   "remarkConfig": {
     "plugins": [
